@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6692560-0b5d-4330-a8d0-384142cc3c13" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/services/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EsercizioRest/services/UsersService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EsercizioRest/services/UsersService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/UsersService.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Progetto_SDP_Mattia_Marchionna" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aA9xO4KlaCxFzxPX6BCXHsECF5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matti\Desktop\sistema_inquinamento\src\main" />
+      <recent name="C:\Users\matti\Desktop\sistema_inquinamento" />
+      <recent name="C:\Users\matti\Desktop\example_rest-master\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matti\Desktop\sistema_inquinamento\src\main\java\lib" />
+      <recent name="C:\Users\matti\Desktop\sistema_inquinamento\src\main\java\peerTopeer" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Analista" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="analista.Analista" />
+      <module name="Progetto_SDP_Mattia_Marchionna" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="analista.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainNodo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="peerTopeer.MainNodo" />
+      <module name="Progetto_SDP_Mattia_Marchionna" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peerTopeer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartServer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gateway.StartServer" />
+      <module name="Progetto_SDP_Mattia_Marchionna" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="gateway.StartServer" />
+      <module name="sistema_inquinamento" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="peerTopeer.Test" />
+      <module name="Progetto_SDP_Mattia_Marchionna" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peerTopeer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartServer" />
+      <item itemvalue="Application.MainNodo" />
+      <item itemvalue="Application.Analista" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.StartServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6692560-0b5d-4330-a8d0-384142cc3c13" name="Default" comment="" />
+      <created>1525364520924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525364520924</updated>
+      <workItem from="1525364522466" duration="1369000" />
+      <workItem from="1586167778414" duration="247000" />
+      <workItem from="1586242743240" duration="111000" />
+      <workItem from="1588411099790" duration="137000" />
+      <workItem from="1588425594811" duration="3313000" />
+      <workItem from="1588429027071" duration="53000" />
+      <workItem from="1588429204651" duration="106000" />
+      <workItem from="1588429353188" duration="2115000" />
+      <workItem from="1588929346707" duration="155000" />
+      <workItem from="1588931537484" duration="4175000" />
+      <workItem from="1588942179414" duration="1073000" />
+      <workItem from="1588956266655" duration="33000" />
+      <workItem from="1588956332362" duration="51000" />
+      <workItem from="1588956414788" duration="547000" />
+      <workItem from="1588957373480" duration="435000" />
+      <workItem from="1588957854117" duration="11661000" />
+      <workItem from="1588970140038" duration="313000" />
+      <workItem from="1588970468399" duration="817000" />
+      <workItem from="1588971372392" duration="228000" />
+      <workItem from="1588971653050" duration="23000" />
+      <workItem from="1588971726360" duration="139000" />
+      <workItem from="1588971881495" duration="784000" />
+      <workItem from="1588973071157" duration="132000" />
+      <workItem from="1588973442452" duration="1060000" />
+      <workItem from="1588974526104" duration="92000" />
+      <workItem from="1588974636811" duration="83000" />
+      <workItem from="1588974786609" duration="2265000" />
+      <workItem from="1589006802646" duration="12611000" />
+      <workItem from="1589019519561" duration="17545000" />
+      <workItem from="1589051086615" duration="1868000" />
+      <workItem from="1589053007146" duration="5000" />
+      <workItem from="1589095086608" duration="202000" />
+      <workItem from="1589095941032" duration="903000" />
+      <workItem from="1589096983484" duration="2026000" />
+      <workItem from="1589104691692" duration="4145000" />
+      <workItem from="1589109412263" duration="610000" />
+      <workItem from="1589113401913" duration="770000" />
+      <workItem from="1589114411887" duration="35491000" />
+      <workItem from="1589181069787" duration="14428000" />
+      <workItem from="1589195658918" duration="1974000" />
+      <workItem from="1589197697132" duration="26000" />
+      <workItem from="1589198127651" duration="23000" />
+      <workItem from="1589199417180" duration="18000" />
+      <workItem from="1589201398221" duration="159000" />
+      <workItem from="1589204495619" duration="3962000" />
+      <workItem from="1589219432641" duration="10474000" />
+      <workItem from="1589230931678" duration="98000" />
+      <workItem from="1589231572629" duration="106000" />
+      <workItem from="1589231734664" duration="157000" />
+      <workItem from="1589266867926" duration="1719000" />
+      <workItem from="1589269433122" duration="1710000" />
+      <workItem from="1589271597569" duration="1000000" />
+      <workItem from="1589278543054" duration="3481000" />
+      <workItem from="1589282851538" duration="3628000" />
+      <workItem from="1589291580087" duration="62000" />
+      <workItem from="1589298748337" duration="1111000" />
+      <workItem from="1589307057719" duration="9771000" />
+      <workItem from="1589318561785" duration="1186000" />
+      <workItem from="1589319817481" duration="341000" />
+      <workItem from="1589350881542" duration="2352000" />
+      <workItem from="1589441100556" duration="731000" />
+      <workItem from="1589442676821" duration="1085000" />
+      <workItem from="1589452006420" duration="2721000" />
+      <workItem from="1589463552793" duration="10312000" />
+      <workItem from="1589486003546" duration="1761000" />
+      <workItem from="1589524572573" duration="194000" />
+      <workItem from="1589525214449" duration="964000" />
+      <workItem from="1589526305108" duration="3060000" />
+      <workItem from="1589529388026" duration="6000" />
+      <workItem from="1589529432644" duration="849000" />
+      <workItem from="1589530531135" duration="3637000" />
+      <workItem from="1589540625870" duration="807000" />
+      <workItem from="1589542757262" duration="14177000" />
+      <workItem from="1589577260435" duration="51000" />
+      <workItem from="1589577350601" duration="7406000" />
+      <workItem from="1589613756384" duration="493000" />
+      <workItem from="1589614303987" duration="41000" />
+      <workItem from="1589633994165" duration="24000" />
+      <workItem from="1589636475263" duration="359000" />
+      <workItem from="1589637292969" duration="600000" />
+      <workItem from="1589785406434" duration="922000" />
+      <workItem from="1589803482926" duration="12234000" />
+      <workItem from="1589874700255" duration="88000" />
+      <workItem from="1589892483886" duration="1214000" />
+      <workItem from="1589899057680" duration="3646000" />
+      <workItem from="1589910186687" duration="5365000" />
+      <workItem from="1589963389310" duration="87000" />
+      <workItem from="1589990459614" duration="1983000" />
+      <workItem from="1590130437388" duration="24336000" />
+      <workItem from="1590159947582" duration="41000" />
+      <workItem from="1590165123145" duration="10000" />
+      <workItem from="1590258269369" duration="2112000" />
+      <workItem from="1590334346935" duration="251000" />
+      <workItem from="1590337129853" duration="4816000" />
+      <workItem from="1590347985544" duration="1320000" />
+      <workItem from="1590349386007" duration="201000" />
+      <workItem from="1590402465640" duration="4478000" />
+      <workItem from="1590413623635" duration="165000" />
+      <workItem from="1590437285723" duration="297000" />
+      <workItem from="1590438080339" duration="594000" />
+      <workItem from="1590496142692" duration="1451000" />
+      <workItem from="1590499929805" duration="1026000" />
+      <workItem from="1590502253365" duration="1290000" />
+      <workItem from="1590505512732" duration="1461000" />
+      <workItem from="1590516428936" duration="11866000" />
+      <workItem from="1590594029433" duration="1521000" />
+      <workItem from="1590604798809" duration="3760000" />
+      <workItem from="1590997022528" duration="916000" />
+      <workItem from="1591018240916" duration="940000" />
+      <workItem from="1591022397571" duration="4349000" />
+      <workItem from="1591195551738" duration="28931000" />
+      <workItem from="1591257939068" duration="1288000" />
+      <workItem from="1591288339581" duration="342000" />
+      <workItem from="1591338274009" duration="22056000" />
+      <workItem from="1591364173969" duration="353000" />
+      <workItem from="1591364647672" duration="1144000" />
+      <workItem from="1591365832289" duration="1812000" />
+      <workItem from="1591368422395" duration="609000" />
+      <workItem from="1591374700153" duration="112000" />
+      <workItem from="1591380728578" duration="10890000" />
+      <workItem from="1591439369121" duration="2147000" />
+      <workItem from="1591441976803" duration="331000" />
+      <workItem from="1591447558488" duration="1223000" />
+      <workItem from="1591455580586" duration="1250000" />
+      <workItem from="1591458368611" duration="1905000" />
+      <workItem from="1591520304782" duration="3859000" />
+      <workItem from="1591525122363" duration="202000" />
+      <workItem from="1591532213439" duration="1590000" />
+      <workItem from="1591536587763" duration="565000" />
+      <workItem from="1591604292841" duration="402000" />
+      <workItem from="1591612336906" duration="78000" />
+      <workItem from="1591625651848" duration="178000" />
+      <workItem from="1591705932494" duration="1319000" />
+      <workItem from="1591707412098" duration="7000" />
+      <workItem from="1591708347113" duration="44000" />
+      <workItem from="1591722602414" duration="557000" />
+      <workItem from="1591723280692" duration="213000" />
+      <workItem from="1591725674208" duration="231000" />
+      <workItem from="1591774937749" duration="8834000" />
+      <workItem from="1591784133060" duration="6123000" />
+      <workItem from="1591799213638" duration="318000" />
+      <workItem from="1591799584038" duration="6000" />
+      <workItem from="1591799696344" duration="515000" />
+      <workItem from="1591810533379" duration="576000" />
+      <workItem from="1591880409504" duration="3470000" />
+      <workItem from="1591894534957" duration="341000" />
+      <workItem from="1591964215080" duration="1122000" />
+      <workItem from="1591966924754" duration="18000" />
+      <workItem from="1592064355710" duration="1993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/SubscribeServiceImpl.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/SubscribeServiceImpl.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/NodoP2P.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/SubscribeServiceImpl.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/NodoP2P.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/NodoP2P.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/NodoP2P.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/MainNodo.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/SubscribeServiceImpl.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/NodoP2P.java</url>
+          <line>273</line>
+          <properties class="peerTopeer.NodoP2P" method="sendTokenToNext">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/NodoP2P.java</url>
+          <line>52</line>
+          <properties class="peerTopeer.NodoP2P" method="getRing">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/NodoP2P.java</url>
+          <line>265</line>
+          <properties class="peerTopeer.NodoP2P" method="getHasToken">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/peerTopeer/NodoP2P.java</url>
+          <line>269</line>
+          <properties class="peerTopeer.NodoP2P" method="setHasToken">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sistema_inquinamento$StartServer.ic" NAME="StartServer Coverage Results" MODIFIED="1588974345820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gateway.*</FILTER>
+    </SUITE>
+  </component>
+</project>

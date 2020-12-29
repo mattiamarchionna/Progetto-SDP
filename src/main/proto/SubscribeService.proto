@@ -1,0 +1,40 @@
+syntax = "proto3";
+package com.subscribe.grpc;
+
+message SubscribeRequest{
+    int32 id = 1;
+    int32 port = 2;
+    string ip = 3;
+}
+
+message SubscribeResponse {
+    bool ack = 1;
+    int32 id = 2;
+}
+
+message ACK {
+    bool ack = 1;
+}
+
+message TokenSend{
+    message Measure{
+        int32 sender = 1;
+        double value = 3;
+        uint64 timestamp = 4;
+    }
+    repeated Measure measure = 4;
+}
+
+
+message NodoId{
+    int32 id = 1;
+}
+
+service SubscribeService {
+    rpc subscribeTo(SubscribeRequest) returns (SubscribeResponse);
+    rpc unsubscribeFrom (SubscribeRequest) returns (SubscribeResponse);
+    rpc insertMeasureToken(TokenSend) returns (ACK);
+    rpc sendConfirmGlobal(NodoId) returns (ACK);
+    rpc hasTokenRPC(NodoId) returns (ACK);
+}
+
